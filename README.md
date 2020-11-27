@@ -25,7 +25,7 @@
 
 !spam {amount} {message} - spams random message you want
 
-!first_massage - scrolls up to first message of dms with certain user
+!first_message - scrolls up to first message of dms with certain user
 
 !purge {amount} - deletes ur messages
 
