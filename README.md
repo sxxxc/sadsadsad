@@ -49,3 +49,5 @@
 
 !nitro - random nitro code
 
+!expose - exposes image
+
