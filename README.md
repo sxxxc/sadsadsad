@@ -51,3 +51,8 @@
 
 !expose - exposes image
 
+!user - basic information about user (works in dms & server)
+
+!userinfo - basic information about user and their join date (only in servers)
+
+!ip - looks up location of IP
